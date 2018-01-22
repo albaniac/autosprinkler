@@ -26,12 +26,12 @@ If you only require the sprinkler system without pi automation you can stop here
 
 ### Pi automation
 #### wiring 433mhz transmitter to Raspberry Pi
-1.Connect ATAD pin on 433mhz transmitter to 5V GPIO
-2.Connect VCC pin on 433mhz transmitter to  GPIO pin 17
-3.Connect GND pin on 433mhz transmitter to GND GPIO
+1. Connect ATAD pin on 433mhz transmitter to 5V GPIO
+2. Connect VCC pin on 433mhz transmitter to  GPIO pin 17
+3. Connect GND pin on 433mhz transmitter to GND GPIO
 #### wiring 433mhz reciever to Arduino
-1.Connect 5V pin on 433mhz reciever to 5V GPIO
-2.Connect OUT pin on 433mhz reciever to GPIO 7
-3.Connect GND pin on 433mhz reciever to GND GPIO
+1. Connect 5V pin on 433mhz reciever to 5V GPIO
+2. Connect OUT pin on 433mhz reciever to GPIO 7
+3. Connect GND pin on 433mhz reciever to GND GPIO
 #### setting up Raspberry pi and Arduino
 Upload sprinklercontroller.ino to Arduino. Upload ???.py to Raspberry Pi and run to turn on sprinkler system, run ???.py again to turn off sprinkler system. 
