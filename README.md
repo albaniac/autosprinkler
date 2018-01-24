@@ -36,5 +36,5 @@ If you only require the sprinkler system without pi automation you can stop here
 #### setting up Raspberry pi and Arduino
 Upload sprinklercontroller.ino to Arduino. Upload ???.py to Raspberry Pi and run to turn on sprinkler system, run ???.py again to turn off sprinkler system. 
 #### Photos
-![alt text](photos/IMG_20171105_175550.jpg)
+![alt text](photos/IMG_20171105_175550.jpg){:height="50%" width="50%"}
 finished picture of arduino(White casing optional)
